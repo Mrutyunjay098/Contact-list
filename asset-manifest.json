@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Contact-list/static/css/main.fd53b1e0.css",
+    "main.js": "/Contact-list/static/js/main.cbadcb94.js",
+    "static/media/cool-background.png": "/Contact-list/static/media/cool-background.63b4ab8bd2e2dc2c70e0.png",
+    "index.html": "/Contact-list/index.html",
+    "main.fd53b1e0.css.map": "/Contact-list/static/css/main.fd53b1e0.css.map",
+    "main.cbadcb94.js.map": "/Contact-list/static/js/main.cbadcb94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd53b1e0.css",
+    "static/js/main.cbadcb94.js"
+  ]
+}
